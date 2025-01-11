@@ -42,12 +42,12 @@ export const experiencesData = [
     title: "Graduated from Mehran University of Engineering and Technology",
     location: "Pakistan",
     description:
-      "I graduated with a degree in Computer Systems Engineering, achieving a CGPA of 3.58.",
+      "I graduated with a degree in Computer Systems Engineering, achieving a CGPA of 3.28.",
     icon: React.createElement(LuGraduationCap),
     date: "2024",
   },
   {
-    title: "Freelancer - Full-Stack Developer & AI/ML Specialist",
+    title: "Mobile Application Developer",
     location: "Remote",
     description:
       "I have been working as a freelancer for 2 years, with 1.5 years focused on AI and Machine Learning, and recently branching into web services. My stack includes React, Next.js, TypeScript, Tailwind, Prisma, MongoDB, and AI/ML solutions.",

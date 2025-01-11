@@ -63,15 +63,17 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I&apos;m Muzammil.</span> I&apos;m an{" "}
-        <span className="font-bold">AI and Machine Learning enthusiast</span>{" "}
-        with <span className="font-bold">2 years</span> of experience, driven by
-        a deep passion for innovation. I’m also a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">1 year</span> of experience, creating{" "}
-        <span className="font-bold">dynamic websites</span>. My expertise lies
-        in <span className="underline">React (Next.js)</span> and{" "}
-        <span className="underline">AI-powered solutions</span>.
+        <span className="font-bold">Hello, I&apos;m Faseeh Hyder.</span> I&apos;m a{" "}
+        <span className="font-bold">skilled app developer</span> with{" "}
+        <span className="font-bold">4 years</span> of experience, specializing in{" "}
+        <span className="font-bold">Flutter</span> for building seamless frontends and{" "}
+        <span className="font-bold">Node.js</span> for robust backend development. I have a proven track 
+        record of creating <span className="font-bold">complete applications </span> 
+        with scalable architectures including BLoCs state management and clean arhitecture for handling complex applications and have successfully published{" "}
+        <span className="font-bold">high-quality apps</span> on the{" "}
+        <span className="font-bold">App Store</span> and{" "}
+        <span className="font-bold">Google Play Store</span>. My passion lies in delivering 
+        impactful solutions through innovative development practices.
       </motion.h1>
 
       <motion.div
@@ -105,19 +107,19 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/muzammil-memon-709280223/"
+          href="https://www.linkedin.com/in/faseehhyder/"
           target="_blank"
         >
           <BsLinkedin />
         </a>
 
-        {/* <a
+        <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com"
+          href="https://github.com/faseehhyder"
           target="_blank"
         >
           <FaGithubSquare />
-        </a> */}
+        </a>
       </motion.div>
     </section>
   );

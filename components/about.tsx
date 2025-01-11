@@ -19,32 +19,37 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
-        After completing my degree in{" "}
-        <span className="font-medium">Computer Systems Engineering</span> and
-        gaining hands-on experience, I decided to dive deeper into the world of
-        <span className="font-medium"> Artificial Intelligence</span> and{" "}
-        <span className="font-medium">Machine Learning</span>. This passion led
-        me to work on several exciting projects, including{" "}
-        <span className="underline">emotion detection</span> and{" "}
-        <span className="underline">LLMs</span>, which helped me refine my
-        skills. I am also a{" "}
-        <span className="font-medium">full-stack developer</span> with{" "}
-        <span className="font-medium">1 year</span> of experience, building{" "}
-        <span className="font-medium">dynamic websites</span>. My core tech
-        stack includes{" "}
-        <span className="font-medium">
-          React (Next.js), Node.js, and MongoDB
-        </span>
-        , and I am always eager to learn new technologies. Right now, I am
-        seeking a <span className="font-medium">full-time position</span> that
-        allows me to grow and apply my knowledge in
-        <span className="font-medium">AI and web development</span>.
+        I am a <span className="font-medium">dedicated mobile app developer</span> with{" "}
+        <span className="font-medium">four years</span> of experience creating scalable and 
+        innovative <span className="font-medium">cross-platform applications</span>. My expertise lies in{" "}
+        <span className="font-medium">Flutter</span> and{" "}
+        <span className="font-medium">Clean Architecture</span>, enabling me to deliver user-centric 
+        solutions that blend performance and design. With skills in{" "}
+        <span className="font-medium">Docker containerization</span>,{" "}
+        <span className="font-medium">AWS deployment</span>, and app publishing on both the{" "}
+        <span className="font-medium">App Store</span> and{" "}
+        <span className="font-medium">Google Play Store</span>, I ensure high-quality results 
+        in every project.
       </p>
-
+  
       <p>
-        <span className="italic">When I&apos;m not coding</span>, you&apos;ll
-        likely find me exploring the latest in AI or unwinding with some video
-        games and movies. Constantly looking for new ways to challenge myself.
+        My journey has been driven by the integration of{" "}
+        <span className="font-medium">AI-powered solutions</span> into mobile apps to tackle 
+        real-world challenges. A notable example is <span className="underline">SeedSense</span>, 
+        an offline-first application for trial data management and analysis, leveraging{" "}
+        <span className="font-medium">AI-driven features</span> to generate actionable insights. 
+        Additionally, I have worked on apps like an <span className="underline">AI-powered student 
+        note-taking tool</span> and <span className="underline">therapy assessment applications</span>, 
+        showcasing my ability to combine technology and innovation effectively.
+      </p>
+  
+      <p>
+        Beyond development, I am deeply committed to continuous learning, staying updated with the 
+        latest technologies, and refining my skills in backend development with{" "}
+        <span className="font-medium">Node.js</span>,{" "}
+        <span className="font-medium">MongoDB</span>, and{" "}
+        <span className="font-medium">SQLite</span>. I thrive on building apps that deliver impact 
+        and contribute to meaningful solutions.
       </p>
     </motion.section>
   );
